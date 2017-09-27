@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+.MyClass {
+    font-size: 24px ;
+}
+
+h1 {
+    font-size: 32px;
+    color: green;
+}
